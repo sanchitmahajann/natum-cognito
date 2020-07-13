@@ -1,0 +1,104 @@
+body {
+	background-color: #0b0c22;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+h1 {
+	font-weight: 900;
+}
+h2 {
+	font-weight: 700;
+}
+
+hr {
+	background: linear-gradient(to left, #06dee1, #79ff6c);
+	border: none;
+	border-radius: 10px;
+	height: 5px;
+	width: 60%;
+}
+p {
+	font-weight: 400;
+}
+
+::-webkit-scrollbar {
+  width: 25px;
+}
+::-webkit-scrollbar-track {
+  border: 7px solid #232943;
+  box-shadow: inset 0 0 2.5px 2px rgba(0, 0, 0, 0.5);
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    45deg,
+    #06dee1,
+    #79ff6c
+    );
+  border-radius: 3px;
+}
+
+/* ----------------------------------------------------------------- */
+
+/* Title Section */
+.navbar {
+	padding: .5rem 10%;
+}
+.nav-item {
+	padding: 0 1rem;
+	text-align: left;
+}
+.heading {
+	padding: 3% 10%;
+	text-align: left;
+}
+.heading1 {
+	padding-top: 16%;
+}
+
+#about {
+	padding: 5% 10%;
+}
+
+#team {
+	padding: 5% 10%;
+}
+.carousel-item {
+	padding-bottom: 5%;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+.caro-img {
+	border-radius: 100%;
+	height: 300px;
+	margin-bottom: 5%;
+	margin-top: 4%;
+	width: 300px;
+}
+
+#contact {
+	padding: 5% 10%;
+}
+.contact-btn {
+	margin: 2% auto 3%;
+}
+.ig-img {
+	height: 32px;
+	width: 32px;
+}
+.copy-link:link {
+	color: white;
+	text-decoration: none;
+	transition: all 0.5s ease-in;
+}
+.copy-link:visited {
+	color: white;
+	text-decoration: none;
+}
+.copy-link:hover {
+	color: #5CF78A;
+	text-decoration: none;
+}
