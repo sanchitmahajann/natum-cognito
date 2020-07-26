@@ -1,7 +1,7 @@
 # natum-cognito
 Codeveloped a website for a student initiative.
 
-Check it out at htt[s://sanchitmahajann.github.io/natum-cognito :)
+Check it out at https://sanchitmahajann.github.io/natum-cognito :)
 
 Official Natum Cognito Website: http://bit.ly/natum-cognito.
 
